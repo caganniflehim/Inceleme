@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Inceleme\Inceleme\bin\Debug\Inceleme.exe.config
+C:\Users\PC\source\repos\Inceleme\Inceleme\bin\Debug\Inceleme.exe
+C:\Users\PC\source\repos\Inceleme\Inceleme\bin\Debug\Inceleme.pdb
+C:\Users\PC\source\repos\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Inceleme\Inceleme\obj\Debug\Inceleme.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Inceleme\Inceleme\obj\Debug\Inceleme.exe
+C:\Users\PC\source\repos\Inceleme\Inceleme\obj\Debug\Inceleme.pdb
